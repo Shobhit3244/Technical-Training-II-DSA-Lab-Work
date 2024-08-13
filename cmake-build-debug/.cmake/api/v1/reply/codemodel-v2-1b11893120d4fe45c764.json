@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Technical_Training_II_DSA_Lab_Work",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Technical_Training_II_DSA_Lab_Work::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Technical_Training_II_DSA_Lab_Work-Debug-4855665c8201d3bef289.json",
+					"name" : "Technical_Training_II_DSA_Lab_Work",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Python Projects/Technical-Training-II-DSA-Lab-Work/cmake-build-debug",
+		"source" : "E:/Python Projects/Technical-Training-II-DSA-Lab-Work"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
